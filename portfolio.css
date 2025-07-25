@@ -1,0 +1,10 @@
+#about h2,
+#projects h2,
+#info h2,
+#contact h2 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  color: #f4b3c2;
+  text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.3);
+}
